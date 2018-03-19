@@ -5,6 +5,9 @@ import java.io.IOException;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
+import org.apache.jena.atlas.logging.LogCtl;
+import org.apache.jena.rdf.model.Model;
+import org.apache.jena.rdf.model.ModelFactory;
 
 
 public class Ejercicio1 {
@@ -13,12 +16,14 @@ public class Ejercicio1 {
         OkHttpClient client = new OkHttpClient();
 
         Request request = new Request.Builder()
-        .url("https://opendata.aemet.es/opendata/api/valores/climatologicos/inventarioestaciones/todasestaciones/?api_key=jyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqbW9udGVyb2dAYWVtZXQuZXMiLCJqdGkiOiI3NDRiYmVhMy02NDEyLTQxYWMtYmYzOC01MjhlZWJlM2FhMWEiLCJleHAiOjE0NzUwNTg3ODcsImlzcyI6IkFFTUVUIiwiaWF0IjoxNDc0NjI2Nzg3LCJ1c2VySWQiOiI3NDRiYmVhMy02NDEyLTQxYWMtYmYzOC01MjhlZWJlM2FhMWEiLCJyb2xlIjoiIn0.xh3LstTlsP9h5cxz3TLmYF4uJwhOKzA0B6-vH8lPGGw")
+        .url("https://opendata.aemet.es/opendata/api/valores/climatologicos/inventarioestaciones/todasestaciones/?api_key=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzYW11ZWwucm9kcmlndWV6MTIwQGFsdS51bHBnYy5lcyIsImp0aSI6Ijc4YzUzMDNkLTJjMGEtNGYxNS1hODMwLTAyOWNlZTFhOGRjMSIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNTIxNDU2Mjg5LCJ1c2VySWQiOiI3OGM1MzAzZC0yYzBhLTRmMTUtYTgzMC0wMjljZWUxYThkYzEiLCJyb2xlIjoiIn0.Frgyb_uYxCWOcn-mABb37b3FPyxkc_6cL840ST-WCfE")
         .get()
         .addHeader("cache-control", "no-cache")
         .build();
 
         Response response = client.newCall(request).execute();
+        LogCtl.setCmdLogging();
+        Model modelo = ModelFactory.createDefaultModel();
         
     }
     
