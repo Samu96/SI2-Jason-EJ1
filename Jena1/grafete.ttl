@@ -1,0 +1,1458 @@
+@prefix station: <http://si2.samuelrodriguez.es/> .
+@prefix spatial: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix aemet: <Http://aemet.linkeddata.es/ontology/> .
+
+station:9019B  aemet:stationName  "VALDERREDIBLE, POLIENTES   " ;
+        spatial:alitudt    "720" ;
+        spatial:latitud    "424823N" ;
+        spatial:longitud   "035602W" .
+
+station:1690B  aemet:stationName  "OURENSE,INSTITUTO" ;
+        spatial:alitudt    "148" ;
+        spatial:latitud    "421956N" ;
+        spatial:longitud   "075152W" .
+
+station:5192  aemet:stationName  "VILLARRODRIGO" ;
+        spatial:alitudt    "862" ;
+        spatial:latitud    "382921N" ;
+        spatial:longitud   "023815W" .
+
+station:2614  aemet:stationName  "ZAMORA" ;
+        spatial:alitudt    "656" ;
+        spatial:latitud    "413056N" ;
+        spatial:longitud   "054407W" .
+
+station:2422  aemet:stationName  "VALLADOLID" ;
+        spatial:alitudt    "735" ;
+        spatial:latitud    "413827N" ;
+        spatial:longitud   "044516W" .
+
+station:2401  aemet:stationName  "PALENCIA, OBSERVATORIO" ;
+        spatial:alitudt    "750" ;
+        spatial:latitud    "420018N" ;
+        spatial:longitud   "043145W" .
+
+station:3434X  aemet:stationName  "NAVALMORAL DE LA MATA" ;
+        spatial:alitudt    "269" ;
+        spatial:latitud    "395645N" ;
+        spatial:longitud   "053457W" .
+
+station:6293X  aemet:stationName  "ROQUETAS DE MAR" ;
+        spatial:alitudt    "3" ;
+        spatial:latitud    "364113N" ;
+        spatial:longitud   "024206W" .
+
+station:1283U  aemet:stationName  "CABO BUSTO" ;
+        spatial:alitudt    "60" ;
+        spatial:latitud    "433409N" ;
+        spatial:longitud   "062812W" .
+
+station:B893  aemet:stationName  "MENORCA, AEROPUERTO" ;
+        spatial:alitudt    "91" ;
+        spatial:latitud    "395117N" ;
+        spatial:longitud   "041256E" .
+
+station:0229I  aemet:stationName  "SABADELL AEROPUERTO" ;
+        spatial:alitudt    "146" ;
+        spatial:latitud    "413125N" ;
+        spatial:longitud   "020611E" .
+
+station:0002I  aemet:stationName  "VANDELLÒS  " ;
+        spatial:alitudt    "32" ;
+        spatial:latitud    "405729N" ;
+        spatial:longitud   "005217E" .
+
+station:2491C  aemet:stationName  "LA COVATILLA, ESTACIÓN DE ESQUÍ" ;
+        spatial:alitudt    "1960" ;
+        spatial:latitud    "402118N" ;
+        spatial:longitud   "054124W" .
+
+station:1055B  aemet:stationName  "LEKEITIO" ;
+        spatial:alitudt    "12" ;
+        spatial:latitud    "432237N" ;
+        spatial:longitud   "023037W" .
+
+station:4560Y  aemet:stationName  "ALAJAR" ;
+        spatial:alitudt    "572" ;
+        spatial:latitud    "375207N" ;
+        spatial:longitud   "064030W" .
+
+station:8178D  aemet:stationName  "ALBACETE" ;
+        spatial:alitudt    "674" ;
+        spatial:latitud    "390020N" ;
+        spatial:longitud   "015144W" .
+
+station:9585  aemet:stationName  "LA MOLINA" ;
+        spatial:alitudt    "1703" ;
+        spatial:latitud    "421957N" ;
+        spatial:longitud   "015622E" .
+
+station:3194U  aemet:stationName  "MADRID, CIUDAD UNIVERSITARIA" ;
+        spatial:alitudt    "664" ;
+        spatial:latitud    "402706N" ;
+        spatial:longitud   "034327W" .
+
+station:1050J  aemet:stationName  "ELGOIBAR" ;
+        spatial:alitudt    "120" ;
+        spatial:latitud    "431234N" ;
+        spatial:longitud   "022448W" .
+
+station:5972X  aemet:stationName  "SAN FERNANDO" ;
+        spatial:alitudt    "28" ;
+        spatial:latitud    "362756N" ;
+        spatial:longitud   "061220W" .
+
+station:9898  aemet:stationName  "HUESCA AEROPUERTO" ;
+        spatial:alitudt    "546" ;
+        spatial:latitud    "420504N" ;
+        spatial:longitud   "001932W" .
+
+station:3298X  aemet:stationName  "SAN PABLO DE LOS MONTES" ;
+        spatial:alitudt    "917" ;
+        spatial:latitud    "393249N" ;
+        spatial:longitud   "042102W" .
+
+station:7031  aemet:stationName  "SAN JAVIER AEROPUERTO" ;
+        spatial:alitudt    "4" ;
+        spatial:latitud    "374720N" ;
+        spatial:longitud   "004812W" .
+
+station:1475X  aemet:stationName  "SANTIAGO DE COMPOSTELA" ;
+        spatial:alitudt    "240" ;
+        spatial:latitud    "425234N" ;
+        spatial:longitud   "083321W" .
+
+station:9771C  aemet:stationName  "LLEIDA" ;
+        spatial:alitudt    "185" ;
+        spatial:latitud    "413734N" ;
+        spatial:longitud   "003553E" .
+
+station:2150H  aemet:stationName  "LA PINILLA, ESTACIÓN DE ESQUÍ" ;
+        spatial:alitudt    "1860" ;
+        spatial:latitud    "411131N" ;
+        spatial:longitud   "032831W" .
+
+station:C029O  aemet:stationName  "LANZAROTE AEROPUERTO" ;
+        spatial:alitudt    "14" ;
+        spatial:latitud    "285707N" ;
+        spatial:longitud   "133601W" .
+
+station:8177A  aemet:stationName  "CHINCHILLA" ;
+        spatial:alitudt    "880" ;
+        spatial:latitud    "385609N" ;
+        spatial:longitud   "013936W" .
+
+station:1387  aemet:stationName  "A CORUÑA" ;
+        spatial:alitudt    "58" ;
+        spatial:latitud    "432157N" ;
+        spatial:longitud   "082517W" .
+
+station:1207U  aemet:stationName  "GIJÓN, CAMPUS" ;
+        spatial:alitudt    "26" ;
+        spatial:latitud    "433123N" ;
+        spatial:longitud   "053716W" .
+
+station:6172O  aemet:stationName  "MÁLAGA, PUERTO" ;
+        spatial:alitudt    "25" ;
+        spatial:latitud    "364300N" ;
+        spatial:longitud   "042511W" .
+
+station:8416  aemet:stationName  "VALÈNCIA" ;
+        spatial:alitudt    "11" ;
+        spatial:latitud    "392850N" ;
+        spatial:longitud   "002159W" .
+
+station:2503X  aemet:stationName  "OLMEDO" ;
+        spatial:alitudt    "740" ;
+        spatial:latitud    "411933N" ;
+        spatial:longitud   "044113W" .
+
+station:1111  aemet:stationName  "SANTANDER" ;
+        spatial:alitudt    "52" ;
+        spatial:latitud    "432928N" ;
+        spatial:longitud   "034802W" .
+
+station:1082  aemet:stationName  "BILBAO AEROPUERTO" ;
+        spatial:alitudt    "42" ;
+        spatial:latitud    "431753N" ;
+        spatial:longitud   "025423W" .
+
+station:7031X  aemet:stationName  "SAN JAVIER AEROPUERTO" ;
+        spatial:alitudt    "4" ;
+        spatial:latitud    "374642N" ;
+        spatial:longitud   "004821W" .
+
+station:C929I  aemet:stationName  "HIERRO AEROPUERTO" ;
+        spatial:alitudt    "32" ;
+        spatial:latitud    "274908N" ;
+        spatial:longitud   "175320W" .
+
+station:2117D  aemet:stationName  "ARANDA DE DUERO" ;
+        spatial:alitudt    "790" ;
+        spatial:latitud    "413957N" ;
+        spatial:longitud   "034434W" .
+
+station:8523X  aemet:stationName  "VINARÒS" ;
+        spatial:alitudt    "111" ;
+        spatial:latitud    "403315N" ;
+        spatial:longitud   "002547E" .
+
+station:0149X  aemet:stationName  "MANRESA" ;
+        spatial:alitudt    "291" ;
+        spatial:latitud    "414312N" ;
+        spatial:longitud   "015025E" .
+
+station:2755X  aemet:stationName  "BENAVENTE" ;
+        spatial:alitudt    "715" ;
+        spatial:latitud    "420039N" ;
+        spatial:longitud   "054000W" .
+
+station:5995B  aemet:stationName  "VEJER DE LA FRONTERA" ;
+        spatial:alitudt    "186" ;
+        spatial:latitud    "361444N" ;
+        spatial:longitud   "055754W" .
+
+station:6155A  aemet:stationName  "MÁLAGA AEROPUERTO" ;
+        spatial:alitudt    "5" ;
+        spatial:latitud    "363958N" ;
+        spatial:longitud   "042856W" .
+
+station:1495  aemet:stationName  "VIGO AEROPUERTO" ;
+        spatial:alitudt    "261" ;
+        spatial:latitud    "421419N" ;
+        spatial:longitud   "083726W" .
+
+station:C619I  aemet:stationName  "LA ALDEA DE SAN NICOLÁS" ;
+        spatial:alitudt    "10" ;
+        spatial:latitud    "280003N" ;
+        spatial:longitud   "154850W" .
+
+station:C249I  aemet:stationName  "FUERTEVENTURA AEROPUERTO" ;
+        spatial:alitudt    "25" ;
+        spatial:latitud    "282641N" ;
+        spatial:longitud   "135147W" .
+
+station:3013  aemet:stationName  "MOLINA DE ARAGÓN" ;
+        spatial:alitudt    "1062" ;
+        spatial:latitud    "405030N" ;
+        spatial:longitud   "015244W" .
+
+station:3094B  aemet:stationName  "TARANCÓN" ;
+        spatial:alitudt    "808" ;
+        spatial:latitud    "400041N" ;
+        spatial:longitud   "030117W" .
+
+station:8019  aemet:stationName  "ALICANTE-ELCHE AEROPUERTO" ;
+        spatial:alitudt    "43" ;
+        spatial:latitud    "381658N" ;
+        spatial:longitud   "003415W" .
+
+station:4148  aemet:stationName  "VISO DEL MARQUÉS" ;
+        spatial:alitudt    "778" ;
+        spatial:latitud    "383105N" ;
+        spatial:longitud   "033400W" .
+
+station:B228  aemet:stationName  "PALMA, PUERTO" ;
+        spatial:alitudt    "3" ;
+        spatial:latitud    "393312N" ;
+        spatial:longitud   "023731E" .
+
+station:9720X  aemet:stationName  "TÀRREGA" ;
+        spatial:alitudt    "388" ;
+        spatial:latitud    "413902N" ;
+        spatial:longitud   "010858E" .
+
+station:1078I  aemet:stationName  "GÜEÑES" ;
+        spatial:alitudt    "208" ;
+        spatial:latitud    "431212N" ;
+        spatial:longitud   "030617W" .
+
+station:B569X  aemet:stationName  "CAPDEPERA" ;
+        spatial:alitudt    "66" ;
+        spatial:latitud    "394256N" ;
+        spatial:longitud   "032841E" .
+
+station:C449C  aemet:stationName  "STA.CRUZ DE TENERIFE" ;
+        spatial:alitudt    "35" ;
+        spatial:latitud    "282748N" ;
+        spatial:longitud   "161519W" .
+
+station:3260B  aemet:stationName  "TOLEDO" ;
+        spatial:alitudt    "515" ;
+        spatial:latitud    "395305N" ;
+        spatial:longitud   "040243W" .
+
+station:1437O  aemet:stationName  "MONTE IROITE" ;
+        spatial:alitudt    "685" ;
+        spatial:latitud    "424314N" ;
+        spatial:longitud   "085524W" .
+
+station:2775X  aemet:stationName  "VILLARDECIERVOS" ;
+        spatial:alitudt    "850" ;
+        spatial:latitud    "415629N" ;
+        spatial:longitud   "061647W" .
+
+station:0076  aemet:stationName  "BARCELONA AEROPUERTO" ;
+        spatial:alitudt    "4" ;
+        spatial:latitud    "411734N" ;
+        spatial:longitud   "020412E" .
+
+station:B278  aemet:stationName  "PALMA, AEROPUERTO" ;
+        spatial:alitudt    "8" ;
+        spatial:latitud    "393339N" ;
+        spatial:longitud   "024412E" .
+
+station:9987P  aemet:stationName  "SANT JAUME D'ENVEJA" ;
+        spatial:alitudt    "1" ;
+        spatial:latitud    "404157N" ;
+        spatial:longitud   "004836E" .
+
+station:4061X  aemet:stationName  "QUINTANAR DE LA ORDEN" ;
+        spatial:alitudt    "691" ;
+        spatial:latitud    "393551N" ;
+        spatial:longitud   "030249W" .
+
+station:0255B  aemet:stationName  "SANTA SUSANNA" ;
+        spatial:alitudt    "40" ;
+        spatial:latitud    "413903N" ;
+        spatial:longitud   "024149E" .
+
+station:0200E  aemet:stationName  "BARCELONA, FABRA" ;
+        spatial:alitudt    "408" ;
+        spatial:latitud    "412506N" ;
+        spatial:longitud   "020727E" .
+
+station:B954  aemet:stationName  "IBIZA, AEROPUERTO" ;
+        spatial:alitudt    "6" ;
+        spatial:latitud    "385235N" ;
+        spatial:longitud   "012304E" .
+
+station:C649I  aemet:stationName  "GRAN CANARIA AEROPUERTO" ;
+        spatial:alitudt    "32" ;
+        spatial:latitud    "275504N" ;
+        spatial:longitud   "152343W" .
+
+station:1249I  aemet:stationName  "OVIEDO" ;
+        spatial:alitudt    "336" ;
+        spatial:latitud    "432112N" ;
+        spatial:longitud   "055227W" .
+
+station:5641X  aemet:stationName  "ÉCIJA" ;
+        spatial:alitudt    "130" ;
+        spatial:latitud    "373058N" ;
+        spatial:longitud   "050506W" .
+
+station:9262  aemet:stationName  "PAMPLONA" ;
+        spatial:alitudt    "450" ;
+        spatial:latitud    "424904N" ;
+        spatial:longitud   "013818W" .
+
+station:2946X  aemet:stationName  "SAELICES EL CHICO" ;
+        spatial:alitudt    "680" ;
+        spatial:latitud    "403806N" ;
+        spatial:longitud   "063600W" .
+
+station:2867  aemet:stationName  "SALAMANCA AEROPUERTO" ;
+        spatial:alitudt    "790" ;
+        spatial:latitud    "405734N" ;
+        spatial:longitud   "052954W" .
+
+station:1014  aemet:stationName  "HONDARRIBIA, MALKARROA" ;
+        spatial:alitudt    "4" ;
+        spatial:latitud    "432125N" ;
+        spatial:longitud   "014732W" .
+
+station:0016A  aemet:stationName  "REUS AEROPUERTO" ;
+        spatial:alitudt    "71" ;
+        spatial:latitud    "410842N" ;
+        spatial:longitud   "010949E" .
+
+station:C329Z  aemet:stationName  "SAN SEBASTIÁN DE LA GOMERA" ;
+        spatial:alitudt    "15" ;
+        spatial:latitud    "280523N" ;
+        spatial:longitud   "170641W" .
+
+station:2462  aemet:stationName  "PUERTO DE NAVACERRADA" ;
+        spatial:alitudt    "1894" ;
+        spatial:latitud    "404735N" ;
+        spatial:longitud   "040038W" .
+
+station:9170  aemet:stationName  "LOGROÑO AEROPUERTO" ;
+        spatial:alitudt    "353" ;
+        spatial:latitud    "422708N" ;
+        spatial:longitud   "021952W" .
+
+station:7002Y  aemet:stationName  "ÁGUILAS" ;
+        spatial:alitudt    "26" ;
+        spatial:latitud    "372502N" ;
+        spatial:longitud   "013513W" .
+
+station:3200  aemet:stationName  "GETAFE" ;
+        spatial:alitudt    "620" ;
+        spatial:latitud    "401758N" ;
+        spatial:longitud   "034320W" .
+
+station:8416Y  aemet:stationName  "VALÈNCIA, VIVEROS" ;
+        spatial:alitudt    "11" ;
+        spatial:latitud    "392850N" ;
+        spatial:longitud   "002159W" .
+
+station:9201K  aemet:stationName  "JACA" ;
+        spatial:alitudt    "823" ;
+        spatial:latitud    "423444N" ;
+        spatial:longitud   "003249W" .
+
+station:9814A  aemet:stationName  "TORLA" ;
+        spatial:alitudt    "1020" ;
+        spatial:latitud    "423736N" ;
+        spatial:longitud   "000642W" .
+
+station:4549Y  aemet:stationName  "AYAMONTE" ;
+        spatial:alitudt    "2" ;
+        spatial:latitud    "371141N" ;
+        spatial:longitud   "072342W" .
+
+station:1002Y  aemet:stationName  "BAZTAN, IRURITA " ;
+        spatial:alitudt    "183" ;
+        spatial:latitud    "430809N" ;
+        spatial:longitud   "013235W" .
+
+station:3526X  aemet:stationName  "CORIA" ;
+        spatial:alitudt    "313" ;
+        spatial:latitud    "400013N" ;
+        spatial:longitud   "063327W" .
+
+station:3129  aemet:stationName  "MADRID AEROPUERTO" ;
+        spatial:alitudt    "609" ;
+        spatial:latitud    "402800N" ;
+        spatial:longitud   "033320W" .
+
+station:3463X  aemet:stationName  "TRUJILLO" ;
+        spatial:alitudt    "503" ;
+        spatial:latitud    "392857N" ;
+        spatial:longitud   "055115W" .
+
+station:1208A  aemet:stationName  "GIJÓN. LA MERCED" ;
+        spatial:alitudt    "22" ;
+        spatial:latitud    "433230N" ;
+        spatial:longitud   "053943W" .
+
+station:9001D  aemet:stationName  "REINOSA" ;
+        spatial:alitudt    "870" ;
+        spatial:latitud    "425931N" ;
+        spatial:longitud   "040938W" .
+
+station:1484C  aemet:stationName  "PONTEVEDRA" ;
+        spatial:alitudt    "108" ;
+        spatial:latitud    "422618N" ;
+        spatial:longitud   "083657W" .
+
+station:7247X  aemet:stationName  "PINOSO " ;
+        spatial:alitudt    "575" ;
+        spatial:latitud    "382359N" ;
+        spatial:longitud   "010217W" .
+
+station:1083L  aemet:stationName  "CASTRO URDIALES" ;
+        spatial:alitudt    "45" ;
+        spatial:latitud    "432341N" ;
+        spatial:longitud   "031402W" .
+
+station:1024E  aemet:stationName  "DONOSTIA/SAN SEBASTIÁN, IGUELDO" ;
+        spatial:alitudt    "251" ;
+        spatial:latitud    "431823N" ;
+        spatial:longitud   "020228W" .
+
+station:8293X  aemet:stationName  "XÀTIVA" ;
+        spatial:alitudt    "88" ;
+        spatial:latitud    "390006N" ;
+        spatial:longitud   "003125W" .
+
+station:5051X  aemet:stationName  "HUÉSCAR" ;
+        spatial:alitudt    "1092" ;
+        spatial:latitud    "375140N" ;
+        spatial:longitud   "023910W" .
+
+station:9263D  aemet:stationName  "PAMPLONA AEROPUERTO" ;
+        spatial:alitudt    "459" ;
+        spatial:latitud    "424637N" ;
+        spatial:longitud   "013900W" .
+
+station:4103X  aemet:stationName  "TOMELLOSO" ;
+        spatial:alitudt    "662" ;
+        spatial:latitud    "391009N" ;
+        spatial:longitud   "030027W" .
+
+station:6000A  aemet:stationName  "MELILLA" ;
+        spatial:alitudt    "52" ;
+        spatial:latitud    "351635N" ;
+        spatial:longitud   "025723W" .
+
+station:1331A  aemet:stationName  "CASTROPOL" ;
+        spatial:alitudt    "40" ;
+        spatial:latitud    "433129N" ;
+        spatial:longitud   "070153W" .
+
+station:4267X  aemet:stationName  "HINOJOSA DEL DUQUE" ;
+        spatial:alitudt    "551" ;
+        spatial:latitud    "382955N" ;
+        spatial:longitud   "050716W" .
+
+station:2444C  aemet:stationName  "ÁVILA, AYUNTAMIENTO" ;
+        spatial:alitudt    "1143" ;
+        spatial:latitud    "403924N" ;
+        spatial:longitud   "044201W" .
+
+station:1109  aemet:stationName  "SANTANDER AEROPUERTO" ;
+        spatial:alitudt    "3" ;
+        spatial:latitud    "432526N" ;
+        spatial:longitud   "034932W" .
+
+station:3168C  aemet:stationName  "GUADALAJARA, EL SERRANILLO" ;
+        spatial:alitudt    "639" ;
+        spatial:latitud    "403933N" ;
+        spatial:longitud   "031024W" .
+
+station:5911A  aemet:stationName  "GRAZALEMA" ;
+        spatial:alitudt    "913" ;
+        spatial:latitud    "364538N" ;
+        spatial:longitud   "052227W" .
+
+station:9563X  aemet:stationName  "CASTELLFORT" ;
+        spatial:alitudt    "1220" ;
+        spatial:latitud    "402955N" ;
+        spatial:longitud   "001112W" .
+
+station:4511C  aemet:stationName  "JEREZ DE LOS CABALLEROS" ;
+        spatial:alitudt    "381" ;
+        spatial:latitud    "381755N" ;
+        spatial:longitud   "064554W" .
+
+station:3469A  aemet:stationName  "CÁCERES" ;
+        spatial:alitudt    "394" ;
+        spatial:latitud    "392817N" ;
+        spatial:longitud   "062020W" .
+
+station:5298X  aemet:stationName  "ANDÚJAR" ;
+        spatial:alitudt    "202" ;
+        spatial:latitud    "380123N" ;
+        spatial:longitud   "040350W" .
+
+station:4067  aemet:stationName  "MADRIDEJOS" ;
+        spatial:alitudt    "690" ;
+        spatial:latitud    "392931N" ;
+        spatial:longitud   "033142W" .
+
+station:1037Y  aemet:stationName  "ZUMARRAGA" ;
+        spatial:alitudt    "420" ;
+        spatial:latitud    "430448N" ;
+        spatial:longitud   "021903W" .
+
+station:1393  aemet:stationName  "CABO VILAN" ;
+        spatial:alitudt    "50" ;
+        spatial:latitud    "430938N" ;
+        spatial:longitud   "091239W" .
+
+station:2870  aemet:stationName  "SALAMANCA" ;
+        spatial:alitudt    "775" ;
+        spatial:latitud    "405727N" ;
+        spatial:longitud   "053944W" .
+
+station:3576X  aemet:stationName  "VALENCIA DE ALCÁNTARA" ;
+        spatial:alitudt    "444" ;
+        spatial:latitud    "392453N" ;
+        spatial:longitud   "071352W" .
+
+station:9573X  aemet:stationName  "ALCAÑIZ" ;
+        spatial:alitudt    "334" ;
+        spatial:latitud    "410329N" ;
+        spatial:longitud   "000830W" .
+
+station:1351  aemet:stationName  "ESTACA DE BARES" ;
+        spatial:alitudt    "80" ;
+        spatial:latitud    "434710N" ;
+        spatial:longitud   "074105W" .
+
+station:2465  aemet:stationName  "SEGOVIA" ;
+        spatial:alitudt    "1005" ;
+        spatial:latitud    "405643N" ;
+        spatial:longitud   "040735W" .
+
+station:1159  aemet:stationName  "SAN VICENTE DE LA BARQUERA" ;
+        spatial:alitudt    "38" ;
+        spatial:latitud    "432336N" ;
+        spatial:longitud   "042332W" .
+
+station:2444  aemet:stationName  "ÁVILA" ;
+        spatial:alitudt    "1130" ;
+        spatial:latitud    "403933N" ;
+        spatial:longitud   "044048W" .
+
+station:3100B  aemet:stationName  "ARANJUEZ" ;
+        spatial:alitudt    "540" ;
+        spatial:latitud    "400402N" ;
+        spatial:longitud   "033246W" .
+
+station:9434P  aemet:stationName  "ZARAGOZA, VALDESPARTERA" ;
+        spatial:alitudt    "254" ;
+        spatial:latitud    "413715N" ;
+        spatial:longitud   "005606W" .
+
+station:3195  aemet:stationName  "MADRID, RETIRO" ;
+        spatial:alitudt    "667" ;
+        spatial:latitud    "402443N" ;
+        spatial:longitud   "034041W" .
+
+station:B346X  aemet:stationName  "PORRERES" ;
+        spatial:alitudt    "120" ;
+        spatial:latitud    "393118N" ;
+        spatial:longitud   "030109E" .
+
+station:5514  aemet:stationName  "GRANADA BASE AÉREA" ;
+        spatial:alitudt    "687" ;
+        spatial:latitud    "370814N" ;
+        spatial:longitud   "033753W" .
+
+station:2916A  aemet:stationName  "VITIGUDINO" ;
+        spatial:alitudt    "769" ;
+        spatial:latitud    "410041N" ;
+        spatial:longitud   "062616W" .
+
+station:7145D  aemet:stationName  "CIEZA" ;
+        spatial:alitudt    "265" ;
+        spatial:latitud    "381358N" ;
+        spatial:longitud   "012250W" .
+
+station:2630X  aemet:stationName  "PUERTO DE SAN ISIDRO" ;
+        spatial:alitudt    "1510" ;
+        spatial:latitud    "430344N" ;
+        spatial:longitud   "052237W" .
+
+station:6032B  aemet:stationName  "RONDA" ;
+        spatial:alitudt    "766" ;
+        spatial:latitud    "364459N" ;
+        spatial:longitud   "051006W" .
+
+station:1041A  aemet:stationName  "ZUMAIA" ;
+        spatial:alitudt    "28" ;
+        spatial:latitud    "431808N" ;
+        spatial:longitud   "021504W" .
+
+station:8501  aemet:stationName  "CASTELLÓN DE LA PLANA" ;
+        spatial:alitudt    "25" ;
+        spatial:latitud    "395920N" ;
+        spatial:longitud   "000224W" .
+
+station:5000C  aemet:stationName  "CEUTA" ;
+        spatial:alitudt    "87" ;
+        spatial:latitud    "355319N" ;
+        spatial:longitud   "052049W" .
+
+station:C429I  aemet:stationName  "TENERIFE SUR AEROPUERTO" ;
+        spatial:alitudt    "64" ;
+        spatial:latitud    "280249N" ;
+        spatial:longitud   "163340W" .
+
+station:B434X  aemet:stationName  "PORTOCOLOM  " ;
+        spatial:alitudt    "17" ;
+        spatial:latitud    "392452N" ;
+        spatial:longitud   "031618E" .
+
+station:2331  aemet:stationName  "BURGOS AEROPUERTO" ;
+        spatial:alitudt    "891" ;
+        spatial:latitud    "422125N" ;
+        spatial:longitud   "033713W" .
+
+station:5181D  aemet:stationName  "ARROYO DEL OJANCO" ;
+        spatial:alitudt    "580" ;
+        spatial:latitud    "381853N" ;
+        spatial:longitud   "025323W" .
+
+station:3044X  aemet:stationName  "CAÑIZARES" ;
+        spatial:alitudt    "940" ;
+        spatial:latitud    "403149N" ;
+        spatial:longitud   "020900W" .
+
+station:8325X  aemet:stationName  "POLINYÀ DE XÚQUER" ;
+        spatial:alitudt    "12" ;
+        spatial:latitud    "391105N" ;
+        spatial:longitud   "002219W" .
+
+station:2465A  aemet:stationName  "SEGOVIA, INSTITUTO" ;
+        spatial:alitudt    "990" ;
+        spatial:latitud    "405648N" ;
+        spatial:longitud   "040657W" .
+
+station:9569A  aemet:stationName  "CALANDA" ;
+        spatial:alitudt    "466" ;
+        spatial:latitud    "405648N" ;
+        spatial:longitud   "001416W" .
+
+station:8025  aemet:stationName  "ALICANTE/ALACANT" ;
+        spatial:alitudt    "81" ;
+        spatial:latitud    "382221N" ;
+        spatial:longitud   "002939W" .
+
+station:8489X  aemet:stationName  "VILLAFRANCA DEL CID/VILLAFRANCA" ;
+        spatial:alitudt    "1131" ;
+        spatial:latitud    "402600N" ;
+        spatial:longitud   "001521W" .
+
+station:6205X  aemet:stationName  "TORROX" ;
+        spatial:alitudt    "3" ;
+        spatial:latitud    "364335N" ;
+        spatial:longitud   "035726W" .
+
+station:6367B  aemet:stationName  "HUERCAL OVERA" ;
+        spatial:alitudt    "300" ;
+        spatial:latitud    "372326N" ;
+        spatial:longitud   "015637W" .
+
+station:9784P  aemet:stationName  "BIELSA" ;
+        spatial:alitudt    "990" ;
+        spatial:latitud    "423748N" ;
+        spatial:longitud   "001329E" .
+
+station:2737E  aemet:stationName  "LAGUNAS DE SOMOZA" ;
+        spatial:alitudt    "1020" ;
+        spatial:latitud    "422239N" ;
+        spatial:longitud   "061148W" .
+
+station:8096  aemet:stationName  "CUENCA" ;
+        spatial:alitudt    "948" ;
+        spatial:latitud    "400402N" ;
+        spatial:longitud   "020755W" .
+
+station:9381  aemet:stationName  "CALAMOCHA, AERÓDROMO" ;
+        spatial:alitudt    "932" ;
+        spatial:latitud    "405154N" ;
+        spatial:longitud   "011818W" .
+
+station:3365A  aemet:stationName  "TALAVERA DE LA REINA" ;
+        spatial:alitudt    "372" ;
+        spatial:latitud    "395731N" ;
+        spatial:longitud   "045149W" .
+
+station:5270B  aemet:stationName  "JAÉN" ;
+        spatial:alitudt    "580" ;
+        spatial:latitud    "374639N" ;
+        spatial:longitud   "034832W" .
+
+station:C229J  aemet:stationName  "PÁJARA" ;
+        spatial:alitudt    "15" ;
+        spatial:latitud    "280257N" ;
+        spatial:longitud   "142129W" .
+
+station:C839I  aemet:stationName  "TEGUISE" ;
+        spatial:alitudt    "10" ;
+        spatial:latitud    "291355N" ;
+        spatial:longitud   "133007W" .
+
+station:8175  aemet:stationName  "ALBACETE BASE AÉREA" ;
+        spatial:alitudt    "702" ;
+        spatial:latitud    "385715N" ;
+        spatial:longitud   "015123W" .
+
+station:8414A  aemet:stationName  "VALENCIA AEROPUERTO" ;
+        spatial:alitudt    "56" ;
+        spatial:latitud    "392906N" ;
+        spatial:longitud   "002829W" .
+
+station:6084X  aemet:stationName  "FUENGIROLA" ;
+        spatial:alitudt    "8" ;
+        spatial:latitud    "363219N" ;
+        spatial:longitud   "043706W" .
+
+station:5530E  aemet:stationName  "GRANADA AEROPUERTO" ;
+        spatial:alitudt    "567" ;
+        spatial:latitud    "371123N" ;
+        spatial:longitud   "034722W" .
+
+station:8050X  aemet:stationName  "JÁVEA/ XÀBIA" ;
+        spatial:alitudt    "15" ;
+        spatial:latitud    "384701N" ;
+        spatial:longitud   "001004E" .
+
+station:2539  aemet:stationName  "VALLADOLID AEROPUERTO" ;
+        spatial:alitudt    "846" ;
+        spatial:latitud    "414243N" ;
+        spatial:longitud   "045120W" .
+
+station:5246  aemet:stationName  "SANTA ELENA" ;
+        spatial:alitudt    "770" ;
+        spatial:latitud    "382040N" ;
+        spatial:longitud   "033207W" .
+
+station:6381  aemet:stationName  "ALBORÁN" ;
+        spatial:alitudt    "15" ;
+        spatial:latitud    "355618N" ;
+        spatial:longitud   "030210W" .
+
+station:1183X  aemet:stationName  "LLANES" ;
+        spatial:alitudt    "10" ;
+        spatial:latitud    "432513N" ;
+        spatial:longitud   "044453W" .
+
+station:5860E  aemet:stationName  "MOGUER, EL ARENOSILLO" ;
+        spatial:alitudt    "41" ;
+        spatial:latitud    "370553N" ;
+        spatial:longitud   "064417W" .
+
+station:3191E  aemet:stationName  "COLMENAR VIEJO" ;
+        spatial:alitudt    "1004" ;
+        spatial:latitud    "404146N" ;
+        spatial:longitud   "034554W" .
+
+station:0252D  aemet:stationName  "ARENYS DE MAR" ;
+        spatial:alitudt    "74" ;
+        spatial:latitud    "413515N" ;
+        spatial:longitud   "023224E" .
+
+station:3469  aemet:stationName  "CÁCERES, CIUDAD" ;
+        spatial:alitudt    "459" ;
+        spatial:latitud    "392833N" ;
+        spatial:longitud   "062235W" .
+
+station:9294E  aemet:stationName  "BARDENAS REALES, BASE AÉREA " ;
+        spatial:alitudt    "295" ;
+        spatial:latitud    "421155N" ;
+        spatial:longitud   "012831W" .
+
+station:5612B  aemet:stationName  "LA RODA DE ANDALUCÍA" ;
+        spatial:alitudt    "410" ;
+        spatial:latitud    "371140N" ;
+        spatial:longitud   "044612W" .
+
+station:6297  aemet:stationName  "ALMERÍA" ;
+        spatial:alitudt    "7" ;
+        spatial:latitud    "364952N" ;
+        spatial:longitud   "022720W" .
+
+station:3168A  aemet:stationName  "GUADALAJARA, INSTITUTO" ;
+        spatial:alitudt    "685" ;
+        spatial:latitud    "403805N" ;
+        spatial:longitud   "031000W" .
+
+station:0324A  aemet:stationName  "RIPOLL" ;
+        spatial:alitudt    "675" ;
+        spatial:latitud    "421129N" ;
+        spatial:longitud   "021146E" .
+
+station:6106X  aemet:stationName  "ANTEQUERA" ;
+        spatial:alitudt    "408" ;
+        spatial:latitud    "370146N" ;
+        spatial:longitud   "044454W" .
+
+station:1210X  aemet:stationName  "CABO PEÑAS" ;
+        spatial:alitudt    "100" ;
+        spatial:latitud    "433921N" ;
+        spatial:longitud   "055055W" .
+
+station:9434  aemet:stationName  "ZARAGOZA AEROPUERTO" ;
+        spatial:alitudt    "249" ;
+        spatial:latitud    "413938N" ;
+        spatial:longitud   "010015W" .
+
+station:9990X  aemet:stationName  "NAUT ARAN, ARTIES " ;
+        spatial:alitudt    "1161" ;
+        spatial:latitud    "424201N" ;
+        spatial:longitud   "005237E" .
+
+station:4220X  aemet:stationName  "PUEBLA DE DON RODRIGO" ;
+        spatial:alitudt    "485" ;
+        spatial:latitud    "390519N" ;
+        spatial:longitud   "043659W" .
+
+station:8309X  aemet:stationName  "UTIEL" ;
+        spatial:alitudt    "758" ;
+        spatial:latitud    "393432N" ;
+        spatial:longitud   "011441W" .
+
+station:9208E  aemet:stationName  "ARAGÜÉS DEL PUERTO" ;
+        spatial:alitudt    "1040" ;
+        spatial:latitud    "424232N" ;
+        spatial:longitud   "004023W" .
+
+station:1690A  aemet:stationName  "OURENSE" ;
+        spatial:alitudt    "143" ;
+        spatial:latitud    "421931N" ;
+        spatial:longitud   "075135W" .
+
+station:0201D  aemet:stationName  "BARCELONA" ;
+        spatial:alitudt    "6" ;
+        spatial:latitud    "412326N" ;
+        spatial:longitud   "021200E" .
+
+station:3266A  aemet:stationName  "PUERTO ALTO DEL LEÓN" ;
+        spatial:alitudt    "1532" ;
+        spatial:latitud    "404223N" ;
+        spatial:longitud   "040831W" .
+
+station:9981A  aemet:stationName  "TORTOSA" ;
+        spatial:alitudt    "50" ;
+        spatial:latitud    "404913N" ;
+        spatial:longitud   "002936E" .
+
+station:C430E  aemet:stationName  "IZAÑA" ;
+        spatial:alitudt    "2371" ;
+        spatial:latitud    "281832N" ;
+        spatial:longitud   "162958W" .
+
+station:1059X  aemet:stationName  "PUNTA GALEA" ;
+        spatial:alitudt    "90" ;
+        spatial:latitud    "432230N" ;
+        spatial:longitud   "030118W" .
+
+station:4642E  aemet:stationName  "HUELVA, RONDA ESTE" ;
+        spatial:alitudt    "19" ;
+        spatial:latitud    "371642N" ;
+        spatial:longitud   "065442W" .
+
+station:1428  aemet:stationName  "SANTIAGO DE COMPOSTELA AEROPUERTO" ;
+        spatial:alitudt    "370" ;
+        spatial:latitud    "425317N" ;
+        spatial:longitud   "082438W" .
+
+station:4147X  aemet:stationName  "VALDEPEÑAS" ;
+        spatial:alitudt    "700" ;
+        spatial:latitud    "384502N" ;
+        spatial:longitud   "032329W" .
+
+station:5000A  aemet:stationName  "CEUTA, MONTE HACHO" ;
+        spatial:alitudt    "200" ;
+        spatial:latitud    "355344N" ;
+        spatial:longitud   "051732W" .
+
+station:1057B  aemet:stationName  "MACHICHACO" ;
+        spatial:alitudt    "93" ;
+        spatial:latitud    "432714N" ;
+        spatial:longitud   "024510W" .
+
+station:5270  aemet:stationName  "JAÉN, INSTITUTO" ;
+        spatial:alitudt    "510" ;
+        spatial:latitud    "374635N" ;
+        spatial:longitud   "034720W" .
+
+station:5796  aemet:stationName  "MORÓN DE LA FRONTERA" ;
+        spatial:alitudt    "87" ;
+        spatial:latitud    "370952N" ;
+        spatial:longitud   "053641W" .
+
+station:1549  aemet:stationName  "PONFERRADA" ;
+        spatial:alitudt    "534" ;
+        spatial:latitud    "423350N" ;
+        spatial:longitud   "063600W" .
+
+station:9091O  aemet:stationName  "FORONDA-TXOKIZA" ;
+        spatial:alitudt    "513" ;
+        spatial:latitud    "425255N" ;
+        spatial:longitud   "024406W" .
+
+station:3519X  aemet:stationName  "PLASENCIA" ;
+        spatial:alitudt    "415" ;
+        spatial:latitud    "400235N" ;
+        spatial:longitud   "060509W" .
+
+station:2235U  aemet:stationName  "CERVERA DE PISUERGA" ;
+        spatial:alitudt    "1140" ;
+        spatial:latitud    "425214N" ;
+        spatial:longitud   "043112W" .
+
+station:9087  aemet:stationName  "VITORIA AERÓDROMO" ;
+        spatial:alitudt    "521" ;
+        spatial:latitud    "425059N" ;
+        spatial:longitud   "023922W" .
+
+station:1473A  aemet:stationName  "PADRÓN" ;
+        spatial:alitudt    "100" ;
+        spatial:latitud    "424418N" ;
+        spatial:longitud   "083738W" .
+
+station:5582A  aemet:stationName  "LOJA" ;
+        spatial:alitudt    "594" ;
+        spatial:latitud    "370940N" ;
+        spatial:longitud   "040910W" .
+
+station:9244X  aemet:stationName  "SOS DEL REY CATÓLICO" ;
+        spatial:alitudt    "626" ;
+        spatial:latitud    "422927N" ;
+        spatial:longitud   "011249W" .
+
+station:6156X  aemet:stationName  "MÁLAGA, CENTRO METEOROLÓGICO" ;
+        spatial:alitudt    "54" ;
+        spatial:latitud    "364304N" ;
+        spatial:longitud   "042854W" .
+
+station:5783  aemet:stationName  "SEVILLA AEROPUERTO" ;
+        spatial:alitudt    "34" ;
+        spatial:latitud    "372500N" ;
+        spatial:longitud   "055245W" .
+
+station:3259  aemet:stationName  "TOLEDO, LORENZANA" ;
+        spatial:alitudt    "540" ;
+        spatial:latitud    "395134N" ;
+        spatial:longitud   "040132W" .
+
+station:2811A  aemet:stationName  "NAVARREDONDA DE GREDOS" ;
+        spatial:alitudt    "1525" ;
+        spatial:latitud    "402102N" ;
+        spatial:longitud   "050835W" .
+
+station:5427X  aemet:stationName  "DOÑA MENCÍA" ;
+        spatial:alitudt    "650" ;
+        spatial:latitud    "373322N" ;
+        spatial:longitud   "042114W" .
+
+station:6325O  aemet:stationName  "ALMERÍA AEROPUERTO" ;
+        spatial:alitudt    "21" ;
+        spatial:latitud    "365047N" ;
+        spatial:longitud   "022125W" .
+
+station:1110  aemet:stationName  "SANTANDER, CIUDAD" ;
+        spatial:alitudt    "64" ;
+        spatial:latitud    "432754N" ;
+        spatial:longitud   "034908W" .
+
+station:7209  aemet:stationName  "LORCA" ;
+        spatial:alitudt    "312" ;
+        spatial:latitud    "373917N" ;
+        spatial:longitud   "014114W" .
+
+station:3168D  aemet:stationName  "GUADALAJARA" ;
+        spatial:alitudt    "721" ;
+        spatial:latitud    "403749N" ;
+        spatial:longitud   "030900W" .
+
+station:3338  aemet:stationName  "ROBLEDO DE CHAVELA" ;
+        spatial:alitudt    "790" ;
+        spatial:latitud    "402540N" ;
+        spatial:longitud   "041500W" .
+
+station:7275C  aemet:stationName  "YECLA" ;
+        spatial:alitudt    "640" ;
+        spatial:latitud    "383606N" ;
+        spatial:longitud   "010935W" .
+
+station:4452  aemet:stationName  "BADAJOZ AEROPUERTO" ;
+        spatial:alitudt    "185" ;
+        spatial:latitud    "385300N" ;
+        spatial:longitud   "064850W" .
+
+station:6332X  aemet:stationName  "CARBONERAS" ;
+        spatial:alitudt    "16" ;
+        spatial:latitud    "365849N" ;
+        spatial:longitud   "015413W" .
+
+station:2374X  aemet:stationName  "CARRIÓN DE LOS CONDES" ;
+        spatial:alitudt    "830" ;
+        spatial:latitud    "422103N" ;
+        spatial:longitud   "043702W" .
+
+station:9771  aemet:stationName  "LLEIDA, OBSERVATORIO" ;
+        spatial:alitudt    "199" ;
+        spatial:latitud    "413702N" ;
+        spatial:longitud   "003716E" .
+
+station:C659M  aemet:stationName  "LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA" ;
+        spatial:alitudt    "15" ;
+        spatial:latitud    "280647N" ;
+        spatial:longitud   "152517W" .
+
+station:1111X  aemet:stationName  "SANTANDER" ;
+        spatial:alitudt    "52" ;
+        spatial:latitud    "432928N" ;
+        spatial:longitud   "034802W" .
+
+station:1014A  aemet:stationName  "SAN SEBASTIÁN AEROPUERTO" ;
+        spatial:alitudt    "4" ;
+        spatial:latitud    "432125N" ;
+        spatial:longitud   "014732W" .
+
+station:9381I  aemet:stationName  "CALAMOCHA" ;
+        spatial:alitudt    "890" ;
+        spatial:latitud    "405534N" ;
+        spatial:longitud   "011736W" .
+
+station:4121C  aemet:stationName  "CIUDAD REAL, INSTITUTO" ;
+        spatial:alitudt    "627" ;
+        spatial:latitud    "385916N" ;
+        spatial:longitud   "035545W" .
+
+station:C689E  aemet:stationName  "MASPALOMAS" ;
+        spatial:alitudt    "6" ;
+        spatial:latitud    "274409N" ;
+        spatial:longitud   "153545W" .
+
+station:B248  aemet:stationName  "SIERRA DE ALFABIA, BUNYOLA" ;
+        spatial:alitudt    "1030" ;
+        spatial:latitud    "394406N" ;
+        spatial:longitud   "024247E" .
+
+station:3196  aemet:stationName  "MADRID, CUATRO VIENTOS" ;
+        spatial:alitudt    "690" ;
+        spatial:latitud    "402232N" ;
+        spatial:longitud   "034710W" .
+
+station:3175  aemet:stationName  "TORREJÓN DE ARDOZ" ;
+        spatial:alitudt    "607" ;
+        spatial:latitud    "402919N" ;
+        spatial:longitud   "032637W" .
+
+station:9111  aemet:stationName  "BELORADO" ;
+        spatial:alitudt    "820" ;
+        spatial:latitud    "422516N" ;
+        spatial:longitud   "031013W" .
+
+station:4358X  aemet:stationName  "DON BENITO" ;
+        spatial:alitudt    "273" ;
+        spatial:latitud    "385720N" ;
+        spatial:longitud   "055250W" .
+
+station:C447A  aemet:stationName  "TENERIFE NORTE AEROPUERTO" ;
+        spatial:alitudt    "632" ;
+        spatial:latitud    "282839N" ;
+        spatial:longitud   "161946W" .
+
+station:3110C  aemet:stationName  "BUITRAGO DEL LOZOYA" ;
+        spatial:alitudt    "1026" ;
+        spatial:latitud    "410025N" ;
+        spatial:longitud   "033649W" .
+
+station:2400E  aemet:stationName  "AUTILLA DEL PINO" ;
+        spatial:alitudt    "874" ;
+        spatial:latitud    "415944N" ;
+        spatial:longitud   "043610W" .
+
+station:7178I  aemet:stationName  "MURCIA" ;
+        spatial:alitudt    "61" ;
+        spatial:latitud    "380007N" ;
+        spatial:longitud   "011015W" .
+
+station:8368U  aemet:stationName  "TERUEL" ;
+        spatial:alitudt    "900" ;
+        spatial:latitud    "402102N" ;
+        spatial:longitud   "010727W" .
+
+station:9576C  aemet:stationName  "BUJARALOZ" ;
+        spatial:alitudt    "357" ;
+        spatial:latitud    "413121N" ;
+        spatial:longitud   "001028W" .
+
+station:B691Y  aemet:stationName  "SA POBLA" ;
+        spatial:alitudt    "40" ;
+        spatial:latitud    "394457N" ;
+        spatial:longitud   "030100E" .
+
+station:9091R  aemet:stationName  "VITORIA GASTEIZ AEROPUERTO" ;
+        spatial:alitudt    "513" ;
+        spatial:latitud    "425219N" ;
+        spatial:longitud   "024359W" .
+
+station:5402  aemet:stationName  "CÓRDOBA AEROPUERTO" ;
+        spatial:alitudt    "90" ;
+        spatial:latitud    "375056N" ;
+        spatial:longitud   "045048W" .
+
+station:7119B  aemet:stationName  "CARAVACA DE LA CRUZ" ;
+        spatial:alitudt    "643" ;
+        spatial:latitud    "380609N" ;
+        spatial:longitud   "015238W" .
+
+station:1221D  aemet:stationName  "PUERTO DE PAJARES" ;
+        spatial:alitudt    "1480" ;
+        spatial:latitud    "425843N" ;
+        spatial:longitud   "054635W" .
+
+station:C439J  aemet:stationName  "GÜÍMAR" ;
+        spatial:alitudt    "115" ;
+        spatial:latitud    "281906N" ;
+        spatial:longitud   "162256W" .
+
+station:1387E  aemet:stationName  "A CORUÑA AEROPUERTO" ;
+        spatial:alitudt    "98" ;
+        spatial:latitud    "431825N" ;
+        spatial:longitud   "082219W" .
+
+station:0367  aemet:stationName  "GIRONA AEROPUERTO" ;
+        spatial:alitudt    "143" ;
+        spatial:latitud    "415442N" ;
+        spatial:longitud   "024548E" .
+
+station:1631E  aemet:stationName  "A POBRA DE TRIVES" ;
+        spatial:alitudt    "840" ;
+        spatial:latitud    "422022N" ;
+        spatial:longitud   "071657W" .
+
+station:5704B  aemet:stationName  "CAZALLA DE LA SIERRA" ;
+        spatial:alitudt    "550" ;
+        spatial:latitud    "375535N" ;
+        spatial:longitud   "054611W" .
+
+station:6277B  aemet:stationName  "ADRA" ;
+        spatial:alitudt    "8" ;
+        spatial:latitud    "364450N" ;
+        spatial:longitud   "030114W" .
+
+station:4090Y  aemet:stationName  "SAN CLEMENTE" ;
+        spatial:alitudt    "728" ;
+        spatial:latitud    "392500N" ;
+        spatial:longitud   "022514W" .
+
+station:3130C  aemet:stationName  "SIGÜENZA" ;
+        spatial:alitudt    "1005" ;
+        spatial:latitud    "410511N" ;
+        spatial:longitud   "023705W" .
+
+station:1700X  aemet:stationName  "CARBALLIÑO, O" ;
+        spatial:alitudt    "400" ;
+        spatial:latitud    "422517N" ;
+        spatial:longitud   "080533W" .
+
+station:C659H  aemet:stationName  "LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL" ;
+        spatial:alitudt    "55" ;
+        spatial:latitud    "280523N" ;
+        spatial:longitud   "152458W" .
+
+station:0372C  aemet:stationName  "PORQUERES" ;
+        spatial:alitudt    "157" ;
+        spatial:latitud    "420616N" ;
+        spatial:longitud   "024549E" .
+
+station:4386B  aemet:stationName  "LLERENA" ;
+        spatial:alitudt    "655" ;
+        spatial:latitud    "381354N" ;
+        spatial:longitud   "060101W" .
+
+station:0370B  aemet:stationName  "GIRONA, ANTIC INSTITUT" ;
+        spatial:alitudt    "95" ;
+        spatial:latitud    "415848N" ;
+        spatial:longitud   "024931E" .
+
+station:4121  aemet:stationName  "CIUDAD REAL" ;
+        spatial:alitudt    "628" ;
+        spatial:latitud    "385921N" ;
+        spatial:longitud   "035513W" .
+
+station:C629X  aemet:stationName  "MOGÁN, PUERTO" ;
+        spatial:alitudt    "10" ;
+        spatial:latitud    "274859N" ;
+        spatial:longitud   "154551W" .
+
+station:4244X  aemet:stationName  "HERRERA DEL DUQUE" ;
+        spatial:alitudt    "447" ;
+        spatial:latitud    "391010N" ;
+        spatial:longitud   "050344W" .
+
+station:7012C  aemet:stationName  "CARTAGENA" ;
+        spatial:alitudt    "17" ;
+        spatial:latitud    "373604N" ;
+        spatial:longitud   "005916W" .
+
+station:4605  aemet:stationName  "HUELVA" ;
+        spatial:alitudt    "17" ;
+        spatial:latitud    "371524N" ;
+        spatial:longitud   "065659W" .
+
+station:2661B  aemet:stationName  "LEÓN AEROPUERTO" ;
+        spatial:alitudt    "912" ;
+        spatial:latitud    "423558N" ;
+        spatial:longitud   "053837W" .
+
+station:4410X  aemet:stationName  "MÉRIDA" ;
+        spatial:alitudt    "228" ;
+        spatial:latitud    "385457N" ;
+        spatial:longitud   "062308W" .
+
+station:9390  aemet:stationName  "DAROCA" ;
+        spatial:alitudt    "779" ;
+        spatial:latitud    "410652N" ;
+        spatial:longitud   "012436W" .
+
+station:2661  aemet:stationName  "LEÓN, VIRGEN DEL CAMINO" ;
+        spatial:alitudt    "912" ;
+        spatial:latitud    "423518N" ;
+        spatial:longitud   "053904W" .
+
+station:7096B  aemet:stationName  "HELLÍN" ;
+        spatial:alitudt    "605" ;
+        spatial:latitud    "383231N" ;
+        spatial:longitud   "014211W" .
+
+station:8500A  aemet:stationName  "CASTELLÓN - ALMASSORA" ;
+        spatial:alitudt    "43" ;
+        spatial:latitud    "395726N" ;
+        spatial:longitud   "000419W" .
+
+station:2298  aemet:stationName  "PALACIOS DE LA SIERRA" ;
+        spatial:alitudt    "1080" ;
+        spatial:latitud    "415735N" ;
+        spatial:longitud   "030754W" .
+
+station:5047E  aemet:stationName  "BAZA" ;
+        spatial:alitudt    "785" ;
+        spatial:latitud    "373021N" ;
+        spatial:longitud   "024406W" .
+
+station:1505  aemet:stationName  "LUGO AEROPUERTO" ;
+        spatial:alitudt    "445" ;
+        spatial:latitud    "430641N" ;
+        spatial:longitud   "072727W" .
+
+station:3391  aemet:stationName  "SOTILLO DE LA ADRADA" ;
+        spatial:alitudt    "630" ;
+        spatial:latitud    "401719N" ;
+        spatial:longitud   "043527W" .
+
+station:6302A  aemet:stationName  "ABLA" ;
+        spatial:alitudt    "885" ;
+        spatial:latitud    "370829N" ;
+        spatial:longitud   "024647W" .
+
+station:9394X  aemet:stationName  "CALATAYUD" ;
+        spatial:alitudt    "600" ;
+        spatial:latitud    "411952N" ;
+        spatial:longitud   "013843W" .
+
+station:C129Z  aemet:stationName  "TAZACORTE" ;
+        spatial:alitudt    "62" ;
+        spatial:latitud    "283545N" ;
+        spatial:longitud   "175455W" .
+
+station:5038X  aemet:stationName  "CAZORLA" ;
+        spatial:alitudt    "813" ;
+        spatial:latitud    "375457N" ;
+        spatial:longitud   "030014W" .
+
+station:1249X  aemet:stationName  "OVIEDO" ;
+        spatial:alitudt    "336" ;
+        spatial:latitud    "432112N" ;
+        spatial:longitud   "055227W" .
+
+station:9619  aemet:stationName  "LA SEU D'URGELL" ;
+        spatial:alitudt    "677" ;
+        spatial:latitud    "422117N" ;
+        spatial:longitud   "012747E" .
+
+station:5390Y  aemet:stationName  "VILLANUEVA DE CÓRDOBA" ;
+        spatial:alitudt    "750" ;
+        spatial:latitud    "381959N" ;
+        spatial:longitud   "043632W" .
+
+station:5973  aemet:stationName  "CÁDIZ" ;
+        spatial:alitudt    "2" ;
+        spatial:latitud    "362959N" ;
+        spatial:longitud   "061528W" .
+
+station:1208H  aemet:stationName  "GIJÓN, PUERTO" ;
+        spatial:alitudt    "5" ;
+        spatial:latitud    "433336N" ;
+        spatial:longitud   "054203W" .
+
+station:1735X  aemet:stationName  "XINZO DE LIMIA" ;
+        spatial:alitudt    "616" ;
+        spatial:latitud    "420445N" ;
+        spatial:longitud   "074401W" .
+
+station:C459Z  aemet:stationName  "PUERTO DE LA CRUZ" ;
+        spatial:alitudt    "25" ;
+        spatial:latitud    "282505N" ;
+        spatial:longitud   "163253W" .
+
+station:9263X  aemet:stationName  "ARANGUREN, ILUNDAIN  " ;
+        spatial:alitudt    "572" ;
+        spatial:latitud    "424634N" ;
+        spatial:longitud   "013157W" .
+
+station:C139E  aemet:stationName  "LA PALMA AEROPUERTO" ;
+        spatial:alitudt    "33" ;
+        spatial:latitud    "283759N" ;
+        spatial:longitud   "174518W" .
+
+station:B013X  aemet:stationName  "ESCORCA, LLUC" ;
+        spatial:alitudt    "490" ;
+        spatial:latitud    "394924N" ;
+        spatial:longitud   "025309E" .
+
+station:6058I  aemet:stationName  "ESTEPONA" ;
+        spatial:alitudt    "11" ;
+        spatial:latitud    "362501N" ;
+        spatial:longitud   "050918W" .
+
+station:5910  aemet:stationName  "ROTA, BASE NAVAL" ;
+        spatial:alitudt    "21" ;
+        spatial:latitud    "363820N" ;
+        spatial:longitud   "061957W" .
+
+station:8058X  aemet:stationName  "OLIVA" ;
+        spatial:alitudt    "5" ;
+        spatial:latitud    "385544N" ;
+        spatial:longitud   "000545W" .
+
+station:1484  aemet:stationName  "PONTEVEDRA, INSTITUTO" ;
+        spatial:alitudt    "19" ;
+        spatial:latitud    "422550N" ;
+        spatial:longitud   "083850W" .
+
+station:9698U  aemet:stationName  "TALARN" ;
+        spatial:alitudt    "807" ;
+        spatial:latitud    "421219N" ;
+        spatial:longitud   "005155E" .
+
+station:7228  aemet:stationName  "ALCANTARILLA, BASE AÉREA" ;
+        spatial:alitudt    "75" ;
+        spatial:latitud    "375728N" ;
+        spatial:longitud   "011343W" .
+
+station:2030  aemet:stationName  "SORIA" ;
+        spatial:alitudt    "1082" ;
+        spatial:latitud    "414630N" ;
+        spatial:longitud   "022859W" .
+
+station:1212E  aemet:stationName  "ASTURIAS AEROPUERTO" ;
+        spatial:alitudt    "127" ;
+        spatial:latitud    "433401N" ;
+        spatial:longitud   "060239W" .
+
+station:3111D  aemet:stationName  "SOMOSIERRA" ;
+        spatial:alitudt    "1450" ;
+        spatial:latitud    "410808N" ;
+        spatial:longitud   "033449W" .
+
+station:1400  aemet:stationName  "FISTERRA" ;
+        spatial:alitudt    "230" ;
+        spatial:latitud    "425529N" ;
+        spatial:longitud   "091729W" .
+
+station:9283X  aemet:stationName  "CADREITA" ;
+        spatial:alitudt    "268" ;
+        spatial:latitud    "421225N" ;
+        spatial:longitud   "014241W" .
+
+station:9051  aemet:stationName  "MEDINA DE POMAR" ;
+        spatial:alitudt    "580" ;
+        spatial:latitud    "425512N" ;
+        spatial:longitud   "032858W" .
+
+station:1208  aemet:stationName  "GIJÓN" ;
+        spatial:alitudt    "3" ;
+        spatial:latitud    "433220N" ;
+        spatial:longitud   "053815W" .
+
+station:6268X  aemet:stationName  "MOTRIL" ;
+        spatial:alitudt    "12" ;
+        spatial:latitud    "364322N" ;
+        spatial:longitud   "033149W" .
+
+station:5960  aemet:stationName  "JEREZ DE LA FRONTERA AEROPUERTO" ;
+        spatial:alitudt    "27" ;
+        spatial:latitud    "364502N" ;
+        spatial:longitud   "060321W" .
+
+station:1542  aemet:stationName  "PUERTO DE LEITARIEGOS" ;
+        spatial:alitudt    "1530" ;
+        spatial:latitud    "425939N" ;
+        spatial:longitud   "062451W" .
+
+station:6001  aemet:stationName  "TARIFA" ;
+        spatial:alitudt    "32" ;
+        spatial:latitud    "360050N" ;
+        spatial:longitud   "053556W" .
